@@ -78,7 +78,7 @@ Note：**√** means supported ; **×** means not supported; **○** means suppo
 
 - [riscv64-unknown-elf-gcc](https://github.com/bouffalolab/toolchain_gcc_t-head_windows) toolchain used in windows.
 - [riscv64-unknown-elf-gcc](https://github.com/bouffalolab/toolchain_gcc_t-head_linux) toolchain used in linux.
-- T-HEAD official does not provide macos toolchain, so you should build by yourself, refer to [build_toolchain_macos](https://github.com/p4ddy1/pine_ox64/blob/main/build_toolchain_macos.md).
+- [Instructions for macos](MACOS_GUIDE.md).
 - [linux-riscv64-linux-gcc](https://gitee.com/bouffalolab/linuxtoolchain_gcc_t-head) toolchain used for compiling linux code.
 
 ## Command Line Development
